@@ -1,5 +1,5 @@
 28.08.2024 - Begin work
-
+03.09.2024 - LDO added to board. J4 Changed.
 			
 
 
